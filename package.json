@@ -1,0 +1,29 @@
+{
+  "name": "woodenlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchen20/woodenlog.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Hang Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hchen20/woodenlog/issues"
+  },
+  "homepage": "https://github.com/hchen20/woodenlog#readme",
+  "dependencies": {
+    "ansi-styles": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
